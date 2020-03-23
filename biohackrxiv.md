@@ -29,7 +29,7 @@ affiliations:
    index: 3
  - name: The Bird
    index: 4
- - name: Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, Yata 1111, Mishima, Shizuoka, Japan
+ - name: Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, 178-4-4 Wakashiba, Kashiwa, Chiba 277-0871, Japan
    index: 5
 date: 01 January 2020
 bibliography: paper.bib
