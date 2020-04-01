@@ -8,4 +8,8 @@
 
 * [biohackrxiv.docx](biohackrxiv.docx)
 
+## LaTeX template
+
+* [biohackrxiv.tex](biohackrxiv.tex)
+
 
