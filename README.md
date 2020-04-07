@@ -2,6 +2,6 @@
 
 ## Markdown template
 
-* [biohackrxiv.md](biohackrxiv.md)
+* [paper.md](paper.md)
 
 
