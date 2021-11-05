@@ -20,7 +20,7 @@ date: 01 January 2020
 bibliography: paper.bib
 authors_short: Last et al. (2021) BioHackrXiv  template
 group: BioHackrXiv
-event: BioHackathon Name
+event: BioHackathon Europe 2021
 ---
 
 # Introduction or Background
